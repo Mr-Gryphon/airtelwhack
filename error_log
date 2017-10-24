@@ -9,7 +9,6 @@
 [07-Jan-2017 15:14:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/trkqtiww/users/square_bot/application/models/Payload_model.php on line 24
 [07-Jan-2017 15:16:46 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/trkqtiww/users/square_bot/application/models/Payload_model.php on line 24
 [07-Jan-2017 16:07:12 UTC] PHP Fatal error:  Call to a member function load_config() on null in /home/trkqtiww/users/square_bot/application/controllers/Facebook.php on line 135
-[07-Jan-2017 16:07:13 UTC] PHP Fatal error:  Call to a member function load_config() on null in /home/trkqtiww/users/square_bot/application/controllers/Facebook.php on line 135
 [07-Jan-2017 16:07:15 UTC] PHP Fatal error:  Call to a member function load_config() on null in /home/trkqtiww/users/square_bot/application/controllers/Facebook.php on line 135
 [07-Jan-2017 16:07:16 UTC] PHP Fatal error:  Call to a member function load_config() on null in /home/trkqtiww/users/square_bot/application/controllers/Facebook.php on line 135
 [07-Jan-2017 16:07:18 UTC] PHP Fatal error:  Call to a member function load_config() on null in /home/trkqtiww/users/square_bot/application/controllers/Facebook.php on line 135
